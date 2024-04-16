@@ -136,5 +136,6 @@ $ npm run dev
 <a href="https://www.erdcloud.com/d/c8heLktDgWrn5TxjM">ERD Cloud</a><br>
 <a href="https://husky-willow-29c.notion.site/f327c2f7da194fe7becd3a8cfc42928c?pvs=4">컨벤션</a><br>
 <a href="">피그마</a><br>
+<a href="https://husky-willow-29c.notion.site/SQL-9e235070dd844724bcce22880e226227?pvs=4">SQL 더미 프로시저</a><br>
 
 
