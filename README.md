@@ -134,7 +134,7 @@ $ npm run dev
 ## Reference
 <a href="https://husky-willow-29c.notion.site/API-Docs-1f226e42dcc941c0960f4b806e91b211?pvs=4">API 명세서</a><br>
 <a href="https://www.erdcloud.com/d/c8heLktDgWrn5TxjM">ERD Cloud</a><br>
-<a href="https://husky-willow-29c.notion.site/API-Docs-1f226e42dcc941c0960f4b806e91b211?pvs=4">컨벤션</a><br>
+<a href="https://husky-willow-29c.notion.site/f327c2f7da194fe7becd3a8cfc42928c?pvs=4">컨벤션</a><br>
 <a href="">피그마</a><br>
 
 
